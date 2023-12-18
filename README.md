@@ -123,7 +123,7 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-I recognize the time people spend on building intuition, understanding new concepts and debugging assignments. The solutions uploaded here are only for reference. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions. This course is the most straight-forward deep learning course I have ever taken, with fabulous course content and structure. It's a treasure by the deeplearning.ai team.
+I want to acknowledge the considerable effort individuals invest in developing their intuition, comprehending novel concepts, and troubleshooting assignments. The solutions provided here serve as reference points and are intended to assist if you encounter difficulties. Please refrain from copying any portion of the code directly, as the programming assignments become more manageable with careful instruction reading. Likewise, attempt the quizzes independently before consulting the quiz solutions. This course stands out as the most straightforward deep learning program I've ever undertaken, boasting exceptional content and a well-organized structure. It truly is a valuable gem created by the deeplearning.ai team.
 
 <br/>
 

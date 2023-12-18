@@ -47,11 +47,7 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/4dcac0c68e690f1947739cc62143dc78)
 
-<hr/>
-
-<br/>
 
 ## Course 2 : [Calculus For Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus)
 
@@ -87,11 +83,6 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/5fa3a336a4fdfcb89879b8b828f8abbe)
-
-<hr/>
-
-<br/>
 
 ## Course 3 : [Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
 
@@ -128,10 +119,6 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/10ba65d22dca9278c5119d7511bcec0b)
 
-<hr/>
 
-<br/>
 
-## [Specialization Certificate](https://coursera.org/share/ea6107e80f98b4d1f05b9263413f39c6)
